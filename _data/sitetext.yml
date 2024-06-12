@@ -11,29 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Umbrella Sharing Service!
+    text: 우비패스
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "인사말"
+    text: "hello"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "문지은"
+        desc: "안녕하세요 목원대학교 4학년 문지은입니다. 현재 팀원(한규영)과 함께 '우비패스'라는 우산 공유 서비스 앱을 개발중입니다. 아직 미완성이지만 저희가 만들고 있는 이 앱을 소개해보려 합니다."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+
+   about:
+    title: "목표"
+    text: "gole"
+    body: "현대 사회에서는 기후 변화와 불규칙한 날씨 패턴으로 인해 우산의 필요성이 점점 증가하고 있습니다. 많은 사람들이 갑작스러운 비로 인해 불편을 겪거나, 우산을 소지하지 못해 곤란을 겪는 경우가 빈번합니다. 이러한 문제를 해결하기 위해 우산 공유 서비스가 필요하다 생각했습니다."
+    section: about
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "우비패스"
+    text: "What is an Woobipass."
     section: portfolio
     closebutton: "Close Project"
 
@@ -68,11 +68,6 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
