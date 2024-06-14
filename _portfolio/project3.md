@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: 회원가입 창
+subtitle: sign up
+image: "assets/img/portfolio/sign up2.png"
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: 회원가입 창
+  subtitle: sign up
+  thumbnail: "assets/img/portfolio/sign up.png"
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+로그인을 하기 위해 사용자가 이메일/비밀번호 또는 소셜 로그인을 통해 계정을 생성할 수 있도록 로그인 창을 구현했습니다.
 

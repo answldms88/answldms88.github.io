@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: qr 스캔 기능
+subtitle: Qr
+image: assets/img/portfolio/qr2.png
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: qr 스캔 기능
+  subtitle: Qr
+  thumbnail: assets/img/portfolio/qr.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+qr스캔 버튼을 눌러 우산의 있는 qr 코드를 스캔해 대여를 하고 반납할때는 우산 대여함에 있는 qr코드를 찍으면 반납이 됩니다.

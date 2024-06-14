@@ -21,9 +21,11 @@ en: &DEFAULT_EN
     text: "hello"
     section: services
     list:
+      - icon: fa-sharp fa-ellipsis
       - title: "문지은"
         desc: "안녕하세요 목원대학교 4학년 문지은입니다. 현재 팀원(한규영)과 함께 '우비패스'라는 우산 공유 서비스 앱을 개발중입니다. 아직 미완성이지만 저희가 만들고 있는 이 앱을 소개해보려 합니다."
         icon: fas fa-laptop
+      - icon: fa-sharp fa-ellipsis
 
   about:
     title: "목표"
@@ -48,7 +50,7 @@ en: &DEFAULT_EN
         year: "March 2024"
         desc: "사용자 경험 개선: 앱 또는 웹 플랫폼의 UI/UX를 개선하여 사용자가 우비를 쉽게 찾고 대여할 수 있도록 합니다. <br>
                 대여 프로세스 최적화: 대여 과정을 간편하게 만들기 위해 QR 코드 스캔 및 결제 과정을 간소화합니다."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/6.jpg
         alt:
       - title: "시스템 설계"
         year: "April 2024"
@@ -56,45 +58,26 @@ en: &DEFAULT_EN
                재고 관리: 각 대여소의 우비 재고를 실시간으로 관리하고, 실시간으로 재고 상태 확인<br>
                안전성 보장: 사용자 인증 및 결제 시스템을 활용하여 무단 사용을 방지하고, 우비의 안전한 사용을 보장<br>
                사용자 데이터 관리: 사용자 개인정보와 이용 기록을 안전하게 관리하여 개인정보 보안성 등을 생각했습니다."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/5.jpg
         alt:
       - title: "앱 개발"
         year: "May 2024"
         desc: "로그인&회원가입창, 메인화면 qr코드와 qr스캔 기능을 구현하고 사용자의 데이터와 우산 정보에 데이터 베이스를 설계했습니다."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/7.jpg
         alt: image alt text
       - title: "개발 진행 중"
         year: "June 2024"
         desc: "현재도 앱 퀄리티를 위해 지도기능을 추가하고 우산 중복 대여를 방지하기 위해 개발 중입니다."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/8.jpg
         alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
   team:
     title: "공지사항"
     text: "announcement"
-    subtext: 우비패스는 현재 개발 중이며, 곧 여러분과 함께할 준비가 되어 있습니다. 우리의 소식을 기다려 주셔서 감사합니다. 더 많은 업데이트를 기대해 주세요! 감사합니다. [우비패스 팀]
+    subtext: 우비패스는 현재 개발 중이며, 곧 여러분과 함께할 준비가 되어 있습니다. 긴 글 읽어주셔서 감사합니다. 더 많은 업데이트를 기대해 주세요! 감사합니다. [우비패스 팀]
     section: team
 
   contact:

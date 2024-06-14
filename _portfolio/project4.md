@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: 메인 창
+subtitle: LMain
+image: assets/img/portfolio/main2.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: 메인 창
+  subtitle: Main
+  thumbnail: assets/img/portfolio/main.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+사용자가 보기 쉽게 디자인을 했으며 QR스캔,지도,우산대여 현황등 필요한 기능들을 구현했습니다.
 
