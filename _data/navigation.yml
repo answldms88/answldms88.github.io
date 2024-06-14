@@ -14,9 +14,9 @@ en: &DEFAULT_EN
     - title: "인사말"
       section: services
     - title: "목표"
-      section: about
-    - title: "우비패스"
       section: portfolio
+    - title: "우비패스"
+      section: about
     - title: "개발과정"
       section: timeline
     - title: "공지사항"
