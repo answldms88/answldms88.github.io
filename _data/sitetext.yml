@@ -27,6 +27,13 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - icon: fa-sharp fa-ellipsis
 
+  about:
+    title: "목표"
+    text: "gole"
+    body: "현대 사회에서는 기후 변화와 불규칙한 날씨 패턴으로 인해 우산의 필요성이 점점 증가하고 있습니다. 많은 사람들이 갑작스러운 비로 인해 불편을 겪거나, 우산을 소지하지 못해 곤란을 겪는 경우가 빈번합니다. 이러한 문제를 해결하기 위해 우산 공유 서비스가 필요하다 생각했습니다."
+    section: about
+
+
   portfolio:
     title: "우비패스"
     text: "What is an Woobipass."
@@ -34,13 +41,6 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
     
-
-  about:
-    title: "목표"
-    text: "gole"
-    body: "현대 사회에서는 기후 변화와 불규칙한 날씨 패턴으로 인해 우산의 필요성이 점점 증가하고 있습니다. 많은 사람들이 갑작스러운 비로 인해 불편을 겪거나, 우산을 소지하지 못해 곤란을 겪는 경우가 빈번합니다. 이러한 문제를 해결하기 위해 우산 공유 서비스가 필요하다 생각했습니다."
-    section: about
-
   timeline:
     title: "개발과정"
     text: "Development process"

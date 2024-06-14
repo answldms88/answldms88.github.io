@@ -1,6 +1,6 @@
 ---
 title: 메인 창
-subtitle: LMain
+subtitle: Main
 image: assets/img/portfolio/main2.png
 alt: 
 
